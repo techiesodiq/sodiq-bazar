@@ -1,0 +1,11 @@
+/** @format */
+
+.heroSection {
+	background-image: url("../public/assets/images/hero.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 60vh;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
